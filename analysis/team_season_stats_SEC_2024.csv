@@ -1,0 +1,513 @@
+season,team,conference,stat_name,stat_value
+2024,Arkansas,SEC,totalYards,3183
+2024,Tennessee,SEC,fumblesLost,4
+2024,Vanderbilt,SEC,games,12
+2024,Georgia,SEC,passCompletions,175
+2024,Georgia,SEC,passAttempts,262
+2024,Kentucky,SEC,rushingYards,1068
+2024,Texas A&M,SEC,fumblesRecovered,2
+2024,Vanderbilt,SEC,rushingAttempts,282
+2024,Ole Miss,SEC,sacks,24
+2024,Auburn,SEC,passAttempts,204
+2024,Georgia,SEC,interceptions,8
+2024,Missouri,SEC,passesIntercepted,5
+2024,Arkansas,SEC,puntReturnYards,47
+2024,Mississippi State,SEC,firstDowns,147
+2024,Alabama,SEC,fumblesRecovered,7
+2024,Kentucky,SEC,tacklesForLoss,45
+2024,Alabama,SEC,rushingAttempts,248
+2024,Oklahoma,SEC,kickReturnTDs,0
+2024,Arkansas,SEC,thirdDownConversions,51
+2024,LSU,SEC,totalYards,3153
+2024,Florida,SEC,passingTDs,11
+2024,Ole Miss,SEC,puntReturnTDs,0
+2024,Vanderbilt,SEC,kickReturns,7
+2024,Auburn,SEC,interceptionYards,52
+2024,South Carolina,SEC,kickReturnTDs,0
+2024,Vanderbilt,SEC,penaltyYards,420
+2024,Georgia,SEC,thirdDowns,89
+2024,Alabama,SEC,thirdDowns,82
+2024,Kentucky,SEC,interceptionYards,100
+2024,Florida,SEC,netPassingYards,1845
+2024,Alabama,SEC,totalYards,2968
+2024,Oklahoma,SEC,passCompletions,126
+2024,Alabama,SEC,interceptions,6
+2024,Arkansas,SEC,passingTDs,6
+2024,Mississippi State,SEC,tacklesForLoss,25
+2024,Mississippi State,SEC,rushingTDs,9
+2024,Kentucky,SEC,passingTDs,6
+2024,Kentucky,SEC,firstDowns,142
+2024,Missouri,SEC,puntReturns,7
+2024,Texas A&M,SEC,passesIntercepted,8
+2024,Ole Miss,SEC,possessionTime,11509
+2024,Oklahoma,SEC,passAttempts,212
+2024,Mississippi State,SEC,turnovers,7
+2024,Oklahoma,SEC,interceptionTDs,1
+2024,Missouri,SEC,totalYards,2958
+2024,Kentucky,SEC,penalties,43
+2024,Georgia,SEC,puntReturnYards,118
+2024,Oklahoma,SEC,rushingTDs,7
+2024,South Carolina,SEC,rushingAttempts,305
+2024,Kentucky,SEC,passesIntercepted,6
+2024,Ole Miss,SEC,passesIntercepted,7
+2024,Texas,SEC,fourthDowns,14
+2024,Kentucky,SEC,puntReturnYards,52
+2024,Texas A&M,SEC,games,12
+2024,Auburn,SEC,tacklesForLoss,40
+2024,Texas,SEC,penaltyYards,347
+2024,Florida,SEC,kickReturnTDs,0
+2024,Texas,SEC,kickReturnYards,175
+2024,Georgia,SEC,kickReturnYards,105
+2024,Vanderbilt,SEC,fumblesRecovered,2
+2024,South Carolina,SEC,puntReturnYards,111
+2024,Kentucky,SEC,interceptions,7
+2024,Missouri,SEC,passCompletions,158
+2024,Vanderbilt,SEC,passesIntercepted,6
+2024,Tennessee,SEC,rushingYards,1697
+2024,Ole Miss,SEC,fumblesRecovered,4
+2024,Oklahoma,SEC,penalties,41
+2024,Florida,SEC,totalYards,2893
+2024,Florida,SEC,kickReturns,10
+2024,Arkansas,SEC,kickReturnYards,73
+2024,Mississippi State,SEC,rushingAttempts,256
+2024,Auburn,SEC,rushingTDs,7
+2024,Tennessee,SEC,interceptions,6
+2024,Auburn,SEC,fumblesLost,7
+2024,Oklahoma,SEC,kickReturns,8
+2024,LSU,SEC,sacks,24
+2024,LSU,SEC,interceptions,6
+2024,Mississippi State,SEC,kickReturns,7
+2024,Texas A&M,SEC,kickReturns,7
+2024,Georgia,SEC,rushingAttempts,198
+2024,Arkansas,SEC,netPassingYards,1951
+2024,Texas,SEC,kickReturns,8
+2024,Texas A&M,SEC,rushingAttempts,282
+2024,Alabama,SEC,rushingTDs,24
+2024,South Carolina,SEC,thirdDowns,103
+2024,Ole Miss,SEC,netPassingYards,2521
+2024,Kentucky,SEC,kickReturnYards,375
+2024,Mississippi State,SEC,passCompletions,135
+2024,Florida,SEC,fourthDowns,10
+2024,Alabama,SEC,fourthDowns,7
+2024,Florida,SEC,rushingYards,1048
+2024,Texas A&M,SEC,fourthDownConversions,5
+2024,Ole Miss,SEC,kickReturnYards,90
+2024,Texas A&M,SEC,passingTDs,9
+2024,Arkansas,SEC,penalties,46
+2024,Tennessee,SEC,kickReturnYards,109
+2024,LSU,SEC,passesIntercepted,4
+2024,Florida,SEC,puntReturnTDs,0
+2024,Kentucky,SEC,games,12
+2024,Arkansas,SEC,games,12
+2024,Missouri,SEC,firstDowns,157
+2024,Oklahoma,SEC,interceptions,5
+2024,Alabama,SEC,passAttempts,191
+2024,South Carolina,SEC,fumblesRecovered,6
+2024,Oklahoma,SEC,possessionTime,11661
+2024,Arkansas,SEC,passAttempts,239
+2024,Oklahoma,SEC,sacks,25
+2024,Mississippi State,SEC,interceptionYards,51
+2024,Vanderbilt,SEC,thirdDowns,96
+2024,LSU,SEC,kickReturnTDs,0
+2024,Texas,SEC,interceptionYards,142
+2024,Alabama,SEC,puntReturnYards,102
+2024,Missouri,SEC,rushingTDs,17
+2024,Oklahoma,SEC,fumblesLost,6
+2024,South Carolina,SEC,tacklesForLoss,57
+2024,Texas A&M,SEC,rushingYards,1534
+2024,South Carolina,SEC,interceptions,4
+2024,Tennessee,SEC,firstDowns,158
+2024,Texas A&M,SEC,firstDowns,148
+2024,Georgia,SEC,sacks,18
+2024,Tennessee,SEC,interceptionTDs,1
+2024,Auburn,SEC,firstDowns,138
+2024,LSU,SEC,rushingTDs,11
+2024,Missouri,SEC,fourthDownConversions,5
+2024,Florida,SEC,passCompletions,128
+2024,Auburn,SEC,turnovers,16
+2024,Kentucky,SEC,fumblesRecovered,2
+2024,Vanderbilt,SEC,tacklesForLoss,38
+2024,Missouri,SEC,puntReturnTDs,1
+2024,LSU,SEC,penaltyYards,398
+2024,Texas A&M,SEC,interceptionTDs,1
+2024,Auburn,SEC,fourthDowns,13
+2024,Vanderbilt,SEC,thirdDownConversions,50
+2024,Vanderbilt,SEC,puntReturns,12
+2024,Kentucky,SEC,possessionTime,12962
+2024,South Carolina,SEC,puntReturnTDs,0
+2024,LSU,SEC,fourthDownConversions,4
+2024,Texas,SEC,passCompletions,164
+2024,Georgia,SEC,penaltyYards,507
+2024,South Carolina,SEC,firstDowns,133
+2024,Texas,SEC,thirdDowns,88
+2024,Alabama,SEC,kickReturnYards,201
+2024,Kentucky,SEC,passCompletions,96
+2024,Vanderbilt,SEC,penalties,42
+2024,Auburn,SEC,penalties,42
+2024,LSU,SEC,puntReturns,10
+2024,Vanderbilt,SEC,firstDowns,142
+2024,Florida,SEC,rushingTDs,16
+2024,Georgia,SEC,passesIntercepted,4
+2024,Arkansas,SEC,rushingTDs,20
+2024,Texas A&M,SEC,passAttempts,170
+2024,Texas A&M,SEC,kickReturnTDs,0
+2024,Kentucky,SEC,sacks,14
+2024,Kentucky,SEC,interceptionTDs,1
+2024,Georgia,SEC,fumblesRecovered,5
+2024,Ole Miss,SEC,kickReturnTDs,0
+2024,Oklahoma,SEC,firstDowns,120
+2024,Oklahoma,SEC,passingTDs,9
+2024,Alabama,SEC,sacks,17
+2024,Arkansas,SEC,fourthDownConversions,6
+2024,Texas,SEC,possessionTime,12425
+2024,Texas,SEC,penalties,45
+2024,South Carolina,SEC,penaltyYards,467
+2024,Texas,SEC,puntReturns,16
+2024,Vanderbilt,SEC,sacks,14
+2024,Vanderbilt,SEC,passAttempts,156
+2024,Kentucky,SEC,turnovers,9
+2024,Mississippi State,SEC,games,12
+2024,Missouri,SEC,kickReturnYards,259
+2024,Texas,SEC,fourthDownConversions,5
+2024,Mississippi State,SEC,netPassingYards,1766
+2024,Missouri,SEC,games,12
+2024,Georgia,SEC,puntReturnTDs,0
+2024,Arkansas,SEC,kickReturns,4
+2024,Georgia,SEC,possessionTime,12423
+2024,Alabama,SEC,kickReturnTDs,0
+2024,Alabama,SEC,thirdDownConversions,35
+2024,Mississippi State,SEC,puntReturns,8
+2024,Missouri,SEC,sacks,15
+2024,Florida,SEC,puntReturnYards,157
+2024,Arkansas,SEC,thirdDowns,99
+2024,Ole Miss,SEC,rushingYards,1405
+2024,Florida,SEC,fourthDownConversions,4
+2024,Tennessee,SEC,rushingTDs,22
+2024,South Carolina,SEC,passingTDs,8
+2024,Vanderbilt,SEC,turnovers,2
+2024,Tennessee,SEC,thirdDownConversions,48
+2024,LSU,SEC,passCompletions,188
+2024,Tennessee,SEC,penaltyYards,460
+2024,LSU,SEC,passingTDs,18
+2024,Vanderbilt,SEC,rushingTDs,12
+2024,Ole Miss,SEC,fourthDownConversions,9
+2024,Kentucky,SEC,fourthDownConversions,6
+2024,Kentucky,SEC,netPassingYards,1175
+2024,Georgia,SEC,interceptionTDs,0
+2024,Oklahoma,SEC,passesIntercepted,6
+2024,Ole Miss,SEC,interceptionTDs,0
+2024,Arkansas,SEC,penaltyYards,402
+2024,Missouri,SEC,interceptions,1
+2024,Missouri,SEC,kickReturnTDs,0
+2024,Ole Miss,SEC,totalYards,3926
+2024,Texas,SEC,interceptions,6
+2024,Alabama,SEC,turnovers,11
+2024,Texas,SEC,puntReturnTDs,0
+2024,Florida,SEC,firstDowns,141
+2024,Arkansas,SEC,tacklesForLoss,31
+2024,Mississippi State,SEC,passingTDs,14
+2024,Auburn,SEC,fumblesRecovered,2
+2024,Tennessee,SEC,turnovers,10
+2024,Arkansas,SEC,kickReturnTDs,0
+2024,Missouri,SEC,kickReturns,13
+2024,Vanderbilt,SEC,totalYards,2545
+2024,Arkansas,SEC,fourthDowns,13
+2024,Georgia,SEC,rushingTDs,13
+2024,South Carolina,SEC,puntReturns,15
+2024,LSU,SEC,rushingYards,896
+2024,Oklahoma,SEC,turnovers,11
+2024,Texas A&M,SEC,totalYards,2837
+2024,LSU,SEC,turnovers,7
+2024,Texas A&M,SEC,fourthDowns,8
+2024,Arkansas,SEC,sacks,14
+2024,Vanderbilt,SEC,interceptionTDs,2
+2024,Auburn,SEC,rushingYards,1103
+2024,Georgia,SEC,interceptionYards,0
+2024,Tennessee,SEC,fourthDownConversions,7
+2024,Florida,SEC,passesIntercepted,6
+2024,Auburn,SEC,games,12
+2024,Missouri,SEC,turnovers,4
+2024,Texas A&M,SEC,fumblesLost,1
+2024,Oklahoma,SEC,tacklesForLoss,57
+2024,Texas,SEC,thirdDownConversions,38
+2024,Ole Miss,SEC,interceptionYards,15
+2024,Texas,SEC,netPassingYards,2069
+2024,Tennessee,SEC,passAttempts,196
+2024,Ole Miss,SEC,fumblesLost,4
+2024,Tennessee,SEC,thirdDowns,108
+2024,Texas A&M,SEC,thirdDowns,88
+2024,South Carolina,SEC,netPassingYards,1295
+2024,Oklahoma,SEC,games,12
+2024,Arkansas,SEC,interceptionTDs,0
+2024,Tennessee,SEC,fumblesRecovered,6
+2024,Vanderbilt,SEC,passingTDs,12
+2024,Kentucky,SEC,rushingTDs,8
+2024,Missouri,SEC,thirdDownConversions,52
+2024,Alabama,SEC,games,12
+2024,South Carolina,SEC,totalYards,2430
+2024,Florida,SEC,fumblesRecovered,3
+2024,Arkansas,SEC,puntReturnTDs,0
+2024,Alabama,SEC,interceptionTDs,0
+2024,Mississippi State,SEC,fourthDowns,23
+2024,Florida,SEC,thirdDowns,78
+2024,Texas A&M,SEC,puntReturns,6
+2024,Ole Miss,SEC,puntReturnYards,110
+2024,LSU,SEC,interceptionYards,3
+2024,Georgia,SEC,penalties,50
+2024,Tennessee,SEC,sacks,15
+2024,Alabama,SEC,passCompletions,130
+2024,Texas A&M,SEC,netPassingYards,1303
+2024,LSU,SEC,fumblesRecovered,7
+2024,South Carolina,SEC,passAttempts,177
+2024,Texas,SEC,fumblesLost,6
+2024,Mississippi State,SEC,passAttempts,224
+2024,Tennessee,SEC,interceptionYards,171
+2024,Georgia,SEC,rushingYards,918
+2024,Missouri,SEC,thirdDowns,106
+2024,Alabama,SEC,possessionTime,11964
+2024,Florida,SEC,penalties,40
+2024,Oklahoma,SEC,penaltyYards,360
+2024,Texas A&M,SEC,kickReturnYards,111
+2024,Florida,SEC,tacklesForLoss,41
+2024,LSU,SEC,kickReturns,11
+2024,Georgia,SEC,tacklesForLoss,46
+2024,Texas,SEC,rushingAttempts,248
+2024,LSU,SEC,netPassingYards,2257
+2024,Florida,SEC,fumblesLost,3
+2024,Ole Miss,SEC,passAttempts,239
+2024,Arkansas,SEC,turnovers,12
+2024,Auburn,SEC,rushingAttempts,223
+2024,Missouri,SEC,fumblesLost,3
+2024,Texas,SEC,kickReturnTDs,0
+2024,Tennessee,SEC,games,12
+2024,Missouri,SEC,penalties,40
+2024,Missouri,SEC,tacklesForLoss,41
+2024,Mississippi State,SEC,sacks,5
+2024,Florida,SEC,rushingAttempts,239
+2024,Texas A&M,SEC,tacklesForLoss,51
+2024,Kentucky,SEC,passAttempts,176
+2024,Mississippi State,SEC,rushingYards,893
+2024,Texas A&M,SEC,penalties,52
+2024,Tennessee,SEC,totalYards,3321
+2024,Missouri,SEC,netPassingYards,1741
+2024,Auburn,SEC,sacks,17
+2024,Kentucky,SEC,kickReturns,17
+2024,South Carolina,SEC,fourthDownConversions,8
+2024,Tennessee,SEC,puntReturnYards,279
+2024,LSU,SEC,penalties,52
+2024,Kentucky,SEC,thirdDownConversions,34
+2024,Georgia,SEC,games,12
+2024,Arkansas,SEC,fumblesLost,6
+2024,Vanderbilt,SEC,fourthDowns,4
+2024,Ole Miss,SEC,passingTDs,15
+2024,Alabama,SEC,firstDowns,144
+2024,South Carolina,SEC,fumblesLost,8
+2024,Texas,SEC,tacklesForLoss,53
+2024,Kentucky,SEC,puntReturns,10
+2024,Vanderbilt,SEC,kickReturnYards,145
+2024,Kentucky,SEC,penaltyYards,341
+2024,Missouri,SEC,fourthDowns,10
+2024,Alabama,SEC,puntReturnTDs,0
+2024,Tennessee,SEC,passesIntercepted,5
+2024,Florida,SEC,games,12
+2024,Oklahoma,SEC,puntReturns,17
+2024,Texas,SEC,turnovers,12
+2024,Oklahoma,SEC,fourthDowns,14
+2024,Mississippi State,SEC,puntReturnYards,133
+2024,Texas A&M,SEC,penaltyYards,454
+2024,Texas A&M,SEC,possessionTime,13324
+2024,Ole Miss,SEC,penalties,61
+2024,Auburn,SEC,interceptions,9
+2024,Missouri,SEC,passAttempts,248
+2024,Auburn,SEC,puntReturnYards,115
+2024,Mississippi State,SEC,passesIntercepted,5
+2024,Ole Miss,SEC,thirdDownConversions,39
+2024,Texas,SEC,passesIntercepted,10
+2024,Ole Miss,SEC,rushingAttempts,271
+2024,Kentucky,SEC,kickReturnTDs,1
+2024,Ole Miss,SEC,interceptions,3
+2024,Texas,SEC,passingTDs,20
+2024,Arkansas,SEC,fumblesRecovered,1
+2024,Alabama,SEC,interceptionYards,206
+2024,Arkansas,SEC,possessionTime,13181
+2024,Texas,SEC,firstDowns,152
+2024,Florida,SEC,interceptions,7
+2024,LSU,SEC,interceptionTDs,0
+2024,South Carolina,SEC,passCompletions,113
+2024,Kentucky,SEC,fumblesLost,2
+2024,LSU,SEC,thirdDownConversions,46
+2024,Auburn,SEC,puntReturnTDs,1
+2024,Tennessee,SEC,puntReturnTDs,1
+2024,Oklahoma,SEC,puntReturnTDs,0
+2024,Mississippi State,SEC,totalYards,2659
+2024,Oklahoma,SEC,fumblesRecovered,8
+2024,Mississippi State,SEC,possessionTime,11292
+2024,Vanderbilt,SEC,netPassingYards,1408
+2024,Arkansas,SEC,puntReturns,5
+2024,Alabama,SEC,puntReturns,14
+2024,Vanderbilt,SEC,interceptionYards,101
+2024,Tennessee,SEC,rushingAttempts,317
+2024,Arkansas,SEC,rushingAttempts,266
+2024,Ole Miss,SEC,firstDowns,183
+2024,Georgia,SEC,kickReturns,6
+2024,Missouri,SEC,interceptionYards,142
+2024,Auburn,SEC,puntReturns,14
+2024,Tennessee,SEC,possessionTime,12273
+2024,Texas A&M,SEC,interceptions,4
+2024,Tennessee,SEC,passingTDs,10
+2024,Auburn,SEC,passCompletions,123
+2024,Alabama,SEC,passesIntercepted,8
+2024,Alabama,SEC,penalties,62
+2024,Tennessee,SEC,puntReturns,16
+2024,Tennessee,SEC,kickReturnTDs,0
+2024,South Carolina,SEC,rushingYards,1135
+2024,Florida,SEC,passAttempts,186
+2024,Alabama,SEC,penaltyYards,547
+2024,Oklahoma,SEC,rushingYards,790
+2024,Missouri,SEC,possessionTime,13588
+2024,South Carolina,SEC,sacks,28
+2024,Florida,SEC,possessionTime,11946
+2024,Georgia,SEC,firstDowns,146
+2024,Georgia,SEC,turnovers,9
+2024,Auburn,SEC,kickReturns,14
+2024,Vanderbilt,SEC,fumblesLost,1
+2024,Mississippi State,SEC,fumblesLost,4
+2024,Alabama,SEC,fumblesLost,5
+2024,Auburn,SEC,interceptionTDs,0
+2024,Ole Miss,SEC,tacklesForLoss,66
+2024,Kentucky,SEC,puntReturnTDs,0
+2024,LSU,SEC,thirdDowns,91
+2024,LSU,SEC,passAttempts,288
+2024,South Carolina,SEC,penalties,53
+2024,LSU,SEC,kickReturnYards,256
+2024,Vanderbilt,SEC,kickReturnTDs,0
+2024,Texas A&M,SEC,puntReturnTDs,0
+2024,Auburn,SEC,fourthDownConversions,5
+2024,Oklahoma,SEC,rushingAttempts,254
+2024,Mississippi State,SEC,kickReturnTDs,0
+2024,Tennessee,SEC,netPassingYards,1624
+2024,Tennessee,SEC,kickReturns,5
+2024,Florida,SEC,kickReturnYards,222
+2024,Florida,SEC,interceptionTDs,1
+2024,Alabama,SEC,passingTDs,13
+2024,Georgia,SEC,puntReturns,14
+2024,Alabama,SEC,kickReturns,9
+2024,Auburn,SEC,kickReturnTDs,0
+2024,Alabama,SEC,rushingYards,1150
+2024,Florida,SEC,thirdDownConversions,32
+2024,Tennessee,SEC,passCompletions,125
+2024,Mississippi State,SEC,thirdDownConversions,40
+2024,Florida,SEC,puntReturns,8
+2024,Auburn,SEC,totalYards,2953
+2024,Texas,SEC,passAttempts,241
+2024,Texas A&M,SEC,passCompletions,99
+2024,Mississippi State,SEC,interceptions,3
+2024,Georgia,SEC,kickReturnTDs,0
+2024,Oklahoma,SEC,netPassingYards,1232
+2024,Arkansas,SEC,passCompletions,142
+2024,LSU,SEC,games,12
+2024,Auburn,SEC,passingTDs,17
+2024,Florida,SEC,sacks,17
+2024,Kentucky,SEC,thirdDowns,86
+2024,Florida,SEC,turnovers,10
+2024,Ole Miss,SEC,thirdDowns,88
+2024,Oklahoma,SEC,totalYards,2022
+2024,Georgia,SEC,fourthDowns,13
+2024,Vanderbilt,SEC,possessionTime,13860
+2024,Oklahoma,SEC,fourthDownConversions,6
+2024,Arkansas,SEC,firstDowns,177
+2024,South Carolina,SEC,passesIntercepted,10
+2024,South Carolina,SEC,rushingTDs,13
+2024,Alabama,SEC,netPassingYards,1818
+2024,Georgia,SEC,passingTDs,15
+2024,South Carolina,SEC,turnovers,12
+2024,Ole Miss,SEC,penaltyYards,592
+2024,Texas,SEC,puntReturnYards,129
+2024,Texas A&M,SEC,turnovers,5
+2024,Arkansas,SEC,passesIntercepted,6
+2024,Auburn,SEC,thirdDownConversions,30
+2024,Vanderbilt,SEC,puntReturnYards,210
+2024,Missouri,SEC,passingTDs,7
+2024,Missouri,SEC,fumblesRecovered,3
+2024,Georgia,SEC,totalYards,3001
+2024,Texas A&M,SEC,interceptionYards,108
+2024,Auburn,SEC,kickReturnYards,336
+2024,South Carolina,SEC,interceptionYards,157
+2024,Ole Miss,SEC,passCompletions,161
+2024,LSU,SEC,puntReturnTDs,0
+2024,Vanderbilt,SEC,interceptions,1
+2024,Ole Miss,SEC,turnovers,7
+2024,Georgia,SEC,fourthDownConversions,11
+2024,LSU,SEC,fumblesLost,1
+2024,Mississippi State,SEC,penaltyYards,442
+2024,Vanderbilt,SEC,fourthDownConversions,3
+2024,Missouri,SEC,rushingAttempts,260
+2024,LSU,SEC,rushingAttempts,194
+2024,LSU,SEC,tacklesForLoss,45
+2024,Arkansas,SEC,interceptions,6
+2024,Mississippi State,SEC,puntReturnTDs,1
+2024,Vanderbilt,SEC,passCompletions,103
+2024,Kentucky,SEC,rushingAttempts,268
+2024,Oklahoma,SEC,puntReturnYards,131
+2024,Auburn,SEC,netPassingYards,1850
+2024,Alabama,SEC,fourthDownConversions,5
+2024,Mississippi State,SEC,thirdDowns,100
+2024,Tennessee,SEC,penalties,55
+2024,Texas,SEC,games,12
+2024,Auburn,SEC,possessionTime,11128
+2024,Texas A&M,SEC,rushingTDs,16
+2024,Vanderbilt,SEC,rushingYards,1137
+2024,Texas,SEC,fumblesRecovered,4
+2024,LSU,SEC,possessionTime,13467
+2024,Oklahoma,SEC,thirdDownConversions,28
+2024,Missouri,SEC,interceptionTDs,1
+2024,Georgia,SEC,netPassingYards,2083
+2024,Texas A&M,SEC,sacks,16
+2024,Missouri,SEC,puntReturnYards,37
+2024,South Carolina,SEC,thirdDownConversions,34
+2024,Auburn,SEC,thirdDowns,77
+2024,Kentucky,SEC,totalYards,2243
+2024,Oklahoma,SEC,kickReturnYards,138
+2024,Mississippi State,SEC,kickReturnYards,168
+2024,Ole Miss,SEC,rushingTDs,21
+2024,Auburn,SEC,passesIntercepted,4
+2024,South Carolina,SEC,kickReturnYards,128
+2024,Mississippi State,SEC,interceptionTDs,1
+2024,Florida,SEC,penaltyYards,361
+2024,Kentucky,SEC,fourthDowns,15
+2024,Oklahoma,SEC,thirdDowns,102
+2024,Texas,SEC,rushingYards,1163
+2024,Tennessee,SEC,fourthDowns,10
+2024,South Carolina,SEC,possessionTime,13356
+2024,Ole Miss,SEC,games,12
+2024,Vanderbilt,SEC,puntReturnTDs,1
+2024,LSU,SEC,fourthDowns,9
+2024,Alabama,SEC,tacklesForLoss,42
+2024,South Carolina,SEC,interceptionTDs,2
+2024,Texas A&M,SEC,thirdDownConversions,40
+2024,Auburn,SEC,penaltyYards,388
+2024,Georgia,SEC,thirdDownConversions,34
+2024,LSU,SEC,firstDowns,175
+2024,Texas,SEC,sacks,18
+2024,Florida,SEC,interceptionYards,101
+2024,Tennessee,SEC,tacklesForLoss,60
+2024,Arkansas,SEC,rushingYards,1232
+2024,Mississippi State,SEC,penalties,50
+2024,LSU,SEC,puntReturnYards,41
+2024,Ole Miss,SEC,puntReturns,13
+2024,Texas,SEC,totalYards,3232
+2024,Mississippi State,SEC,fumblesRecovered,3
+2024,South Carolina,SEC,games,12
+2024,South Carolina,SEC,kickReturns,8
+2024,Mississippi State,SEC,fourthDownConversions,13
+2024,Georgia,SEC,fumblesLost,1
+2024,Ole Miss,SEC,kickReturns,5
+2024,Texas,SEC,interceptionTDs,1
+2024,Arkansas,SEC,interceptionYards,54
+2024,Ole Miss,SEC,fourthDowns,15
+2024,Missouri,SEC,penaltyYards,342
+2024,South Carolina,SEC,fourthDowns,15
+2024,Missouri,SEC,rushingYards,1217
+2024,Texas A&M,SEC,puntReturnYards,30
+2024,Texas,SEC,rushingTDs,16
+2024,Oklahoma,SEC,interceptionYards,101
